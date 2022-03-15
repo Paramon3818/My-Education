@@ -12,8 +12,8 @@
 
 using namespace std;
 
-string upload = "D:\\Õ√”\\results\\";
-string download = "D:\\Õ√”\\tests\\";
+string upload = "D:\\√ç√É√ì\\results\\";
+string download = "D:\\√ç√É√ì\\tests\\";
 
 
 
